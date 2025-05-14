@@ -16,6 +16,9 @@
         <mxCell id="100oGTVLPFIe_tl0zZmT-6" value="解码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="430" y="170" width="20" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="100oGTVLPFIe_tl0zZmT-8" value="压缩效果评估模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="530" y="140" width="25" height="135" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
