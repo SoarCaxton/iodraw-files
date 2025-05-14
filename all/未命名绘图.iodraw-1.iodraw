@@ -7,8 +7,8 @@
         <mxCell id="100oGTVLPFIe_tl0zZmT-1" value="数据预处理模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" vertex="1" parent="1">
           <mxGeometry x="140" y="130" width="25" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="100oGTVLPFIe_tl0zZmT-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="294" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="100oGTVLPFIe_tl0zZmT-3" value="模型加载模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="294" y="80" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
