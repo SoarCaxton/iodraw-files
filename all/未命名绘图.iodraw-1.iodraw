@@ -28,11 +28,14 @@
         <mxCell id="aOJwFphEAJdV8OKlzjtm-5" value="GELU函数激活" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="295" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aOJwFphEAJdV8OKlzjtm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aOJwFphEAJdV8OKlzjtm-7" target="aOJwFphEAJdV8OKlzjtm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aOJwFphEAJdV8OKlzjtm-7" value="特征图按通道循环左移" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="150" width="130" height="60" as="geometry" />
+          <mxGeometry x="482.5" y="170" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aOJwFphEAJdV8OKlzjtm-8" value="原特征图与左移特征图线性拼接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="487.5" y="240" width="175" height="80" as="geometry" />
+          <mxGeometry x="460" y="260" width="175" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
