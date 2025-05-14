@@ -26,7 +26,7 @@
           <mxGeometry x="365" y="268" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="100oGTVLPFIe_tl0zZmT-14" value="损失函数计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="80" width="85" height="30" as="geometry" />
+          <mxGeometry x="357.5" y="70" width="102.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
