@@ -16,17 +16,20 @@
         <mxCell id="100oGTVLPFIe_tl0zZmT-4" value="编码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="380" y="170" width="20" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="100oGTVLPFIe_tl0zZmT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="100oGTVLPFIe_tl0zZmT-6" target="100oGTVLPFIe_tl0zZmT-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="100oGTVLPFIe_tl0zZmT-6" value="解码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="400" y="170" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="100oGTVLPFIe_tl0zZmT-8" value="压缩效果评估模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="360" y="116.25" width="100" height="37.5" as="geometry" />
+          <mxGeometry x="480" y="230" width="100" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="100oGTVLPFIe_tl0zZmT-11" value="模型保存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="365" y="268" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="100oGTVLPFIe_tl0zZmT-14" value="损失函数计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="70" width="102.5" height="40" as="geometry" />
+          <mxGeometry x="480" y="130" width="102.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
