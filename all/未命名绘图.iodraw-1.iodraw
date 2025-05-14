@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="100oGTVLPFIe_tl0zZmT-1" value="数据预处理模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;direction=south;" vertex="1" parent="1">
+        <mxCell id="100oGTVLPFIe_tl0zZmT-1" value="数据预处理模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;direction=south;" vertex="1" parent="1">
           <mxGeometry x="210" y="140" width="25" height="135" as="geometry" />
         </mxCell>
         <mxCell id="100oGTVLPFIe_tl0zZmT-3" value="模型加载模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="100oGTVLPFIe_tl0zZmT-6" value="解码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="430" y="170" width="20" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="100oGTVLPFIe_tl0zZmT-7" value="压缩效果评估模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="250" y="140" width="20" height="122" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
