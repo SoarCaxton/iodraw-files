@@ -23,13 +23,10 @@
           <mxGeometry x="400" y="170" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="100oGTVLPFIe_tl0zZmT-8" value="压缩效果评估模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="487" y="120" width="23" height="129.5" as="geometry" />
+          <mxGeometry x="460" y="135.25" width="23" height="129.5" as="geometry" />
         </mxCell>
         <mxCell id="100oGTVLPFIe_tl0zZmT-11" value="模型保存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="630" y="360" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="100oGTVLPFIe_tl0zZmT-14" value="损失函数计算" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="460" y="410" width="102.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
