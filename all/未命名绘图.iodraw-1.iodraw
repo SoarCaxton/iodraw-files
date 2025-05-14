@@ -49,6 +49,9 @@
         <mxCell id="100oGTVLPFIe_tl0zZmT-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="100oGTVLPFIe_tl0zZmT-8" target="100oGTVLPFIe_tl0zZmT-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="100oGTVLPFIe_tl0zZmT-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="100oGTVLPFIe_tl0zZmT-8" target="100oGTVLPFIe_tl0zZmT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="100oGTVLPFIe_tl0zZmT-8" value="压缩效果评估模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;direction=south;" vertex="1" parent="1">
           <mxGeometry x="570" y="136" width="23" height="129.5" as="geometry" />
         </mxCell>
