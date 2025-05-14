@@ -87,8 +87,11 @@
         <mxCell id="100oGTVLPFIe_tl0zZmT-43" value="邻域融合卷积" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="373.5" y="30" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="100oGTVLPFIe_tl0zZmT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="100oGTVLPFIe_tl0zZmT-48" target="100oGTVLPFIe_tl0zZmT-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="100oGTVLPFIe_tl0zZmT-48" value="转置卷积" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="490" y="20" width="60" height="20" as="geometry" />
+          <mxGeometry x="470" y="30" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
