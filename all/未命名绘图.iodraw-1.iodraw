@@ -25,6 +25,9 @@
         <mxCell id="aOJwFphEAJdV8OKlzjtm-5" value="GELU函数激活" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="295" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aOJwFphEAJdV8OKlzjtm-7" value="特征图按通道循环左移" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
