@@ -40,11 +40,14 @@
         <mxCell id="aOJwFphEAJdV8OKlzjtm-8" value="原特征图与左移特征图线性拼接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="260" width="175" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="aOJwFphEAJdV8OKlzjtm-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aOJwFphEAJdV8OKlzjtm-11" target="aOJwFphEAJdV8OKlzjtm-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aOJwFphEAJdV8OKlzjtm-11" value="逐点卷积恢复通道数&lt;div&gt;卷积核：1x1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="488" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aOJwFphEAJdV8OKlzjtm-13" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="492.5" y="460" width="67.5" height="40" as="geometry" />
+          <mxGeometry x="512.5" y="470" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
