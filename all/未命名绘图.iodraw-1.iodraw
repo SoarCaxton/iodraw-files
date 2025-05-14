@@ -26,7 +26,7 @@
           <mxGeometry x="470" y="132.5" width="25" height="135" as="geometry" />
         </mxCell>
         <mxCell id="100oGTVLPFIe_tl0zZmT-11" value="模型保存" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="90" y="260" width="70" height="30" as="geometry" />
+          <mxGeometry x="365" y="268" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
