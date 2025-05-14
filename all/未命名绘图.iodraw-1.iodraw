@@ -13,8 +13,11 @@
         <mxCell id="100oGTVLPFIe_tl0zZmT-4" value="编码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="380" y="170" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="100oGTVLPFIe_tl0zZmT-6" value="编码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="390" y="180" width="20" height="60" as="geometry" />
+        <mxCell id="100oGTVLPFIe_tl0zZmT-6" value="解码器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="430" y="170" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="100oGTVLPFIe_tl0zZmT-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="178" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
