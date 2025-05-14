@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="100oGTVLPFIe_tl0zZmT-55" value="输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="260" width="60" height="30" as="geometry" />
+          <mxGeometry x="580" y="200.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="100oGTVLPFIe_tl0zZmT-56" value="输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="215" width="60" height="30" as="geometry" />
